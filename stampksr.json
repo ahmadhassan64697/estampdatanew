@@ -87,5 +87,14 @@
         "amount_words": "Three Hundred Rupees Only",
         "reason": "Affidavit",
         "vendor_info": "Faheem Ahmad | PB-KSR-254 | Kachari Chunian"
+         "email_address": "",
+        "phone_number": "",
+        "change_of_name": "",
+        "restoration_of_dob": "",
+        "change_in_accounting_period": "",
+        "advocate_cnic": "",
+        "advocate_name": "",
+        "advocate_address1": "",
+        "advocate_address2": " "
     }
 ]
