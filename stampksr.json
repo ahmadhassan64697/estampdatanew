@@ -96,5 +96,30 @@
         "advocate_name": "",
         "advocate_address1": "",
         "advocate_address2": " "
+    },
+    {
+        "stamp_id": "PB-LHR-MS8M2B45C4WZIX",
+        "type": "Affidavit",
+        "amount": "Rs 300\/-",
+        "description": "AFFIDAVIT - 4",
+        "applicant": "Barkat Ali",
+        "applicant_cnic": "35202-4189772-7",
+        "relation_type": "S\/O",
+        "relation_name": "Allah Ditta",
+        "address": "Lahore",
+        "issue_date_time": "3-Aug-2025 1:02:26 PM",
+        "validity": "10-Aug-2025",
+        "amount_words": "Three Hundred Rupees Only",
+        "reason": "Affidavit",
+        "vendor_info": "Faheem Ahmad | PB-LHR-254 | Model Town Courts Lahore",
+        "email_address": "",
+        "phone_number": "",
+        "change_of_name": "",
+        "restoration_of_dob": "",
+        "change_in_accounting_period": "",
+        "advocate_cnic": "",
+        "advocate_name": "",
+        "advocate_address1": "",
+        "advocate_address2": " "
     }
 ]
