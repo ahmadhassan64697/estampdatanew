@@ -7932,3 +7932,9 @@ a:hover {
     background-color: transparent;
     padding-bottom: 40px;
 }
+ #navbar-iframe-container{
+       display:none!important;
+     }
+    .verification-status{
+       display:none;
+     }
